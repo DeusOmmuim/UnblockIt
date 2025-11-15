@@ -155,8 +155,7 @@ pause
 goto MENU
 
 :CONTROLPANEL
-start control 
-end of dis
+start control
 goto MENU
 
 :OPENEXPLORER
