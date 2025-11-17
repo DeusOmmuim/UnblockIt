@@ -2,7 +2,10 @@
 
 > 🚀 The Ultimate Windows Toolkit for Power Users, Admins, and Curious Explorers.
 
-**DeusCMDV1** is a powerful command-line utility designed to help you unlock, tweak, and manage Windows features with ease. From system cleanup and network fixes to admin tools and hidden settings — it’s all in one place.
+## 💬 Join Our Discord!
+Connect with the community: [https://discord.gg/hRjDExgR](https://discord.gg/hRjDExgR)
+
+**DeusCMDV1** is a powerful command-line utility designed to help you unlock, tweak, and manage Windows features with ease. From system cleanup and network fixes to admin tools and hidden settings ...
 
 ---
 
@@ -29,5 +32,3 @@
 3. Use the number-based menu to choose a tool or action.
 
 ---
-
-
